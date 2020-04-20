@@ -1,7 +1,7 @@
 # Rack Routes and GET Params
 
 We've provided the code for a basic list of items. Now it's your turn to extend it.
-Do you work in `app/application.rb`.
+Do your work in `app/application.rb`.
 
 ## Vocabulary Word: "Route"
 
