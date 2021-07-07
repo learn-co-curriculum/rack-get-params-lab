@@ -5,7 +5,7 @@ Do your work in `app/application.rb`.
 
 ## Vocabulary Word: "Route"
 
-In applications built on Rack, we use the noun "route" to to refer to a path
+In applications built on Rack, we use the noun "route" to refer to a path
 that the application has a special response to.
 
 So, for example, if we navigated to a `/shoes` route, we would expect the
